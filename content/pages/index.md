@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: Rhythm to Reach
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am a student at Indiana University of Pennsylvania studying
+      communications media marketing and earning a minor in psychology. In the
+      past year I have honed my passions and gained hands-on experience; by
+      working on a music themed television show, I have effectively combined my
+      love for music with my studies. I aim to help small, local musicians
+      expand their reach and grow their audiences.
     styles:
       self:
         height: auto
