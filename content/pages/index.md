@@ -49,7 +49,7 @@ sections:
       working on a music themed television show, I have effectively combined my
       love for music with my studies. I aim to help small, local musicians
       expand their reach and grow their audiences.
-    colors: colors-d
+    colors: colors-e
     variant: variant-b
     elementId: ''
     styles:
