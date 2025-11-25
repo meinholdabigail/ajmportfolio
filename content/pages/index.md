@@ -23,7 +23,7 @@ sections:
       expand their reach and grow their audiences.
     styles:
       self:
-        height: screen
+        height: auto
         width: narrow
         margin:
           - mt-0
