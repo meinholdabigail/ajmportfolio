@@ -28,7 +28,7 @@
             {
                 "type": "Social",
                 "label": "Instagram",
-                "altText": "",
+                "altText": "Instagram",
                 "url": "/",
                 "icon": "instagram",
                 "elementId": ""
