@@ -65,7 +65,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: '@ajm.flix'
         altText: ''
         url: /
         showIcon: true
