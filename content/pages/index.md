@@ -60,7 +60,7 @@ sections:
         altText: my email
         url: 'mailto:meinhold.abigail@gmail.com'
         showIcon: true
-        icon: arrowRight
+        icon: mail
         iconPosition: right
         style: primary
         elementId: ''
