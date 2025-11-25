@@ -42,13 +42,13 @@ sections:
   - type: TextSection
     title: The Section Title
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      I am a student at Indiana University of Pennsylvania studying
+      communications media marketing and earning a minor in psychology. In the
+      past year I have honed my passions and gained hands-on experience; by
+      working on a music themed television show, I have effectively combined my
+      love for music with my studies. I aim to help small, local musicians
+      expand their reach and grow their audiences.
     colors: colors-d
     variant: variant-b
     elementId: ''
