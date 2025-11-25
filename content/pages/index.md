@@ -64,14 +64,6 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - type: Link
-        label: '@ajm.flix'
-        altText: instagram
-        url: 'https://www.instagram.com/ajm.flix/'
-        showIcon: true
-        icon: instagram
-        iconPosition: left
-        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
