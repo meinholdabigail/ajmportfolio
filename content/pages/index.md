@@ -58,7 +58,7 @@ sections:
       - type: Button
         label: Email
         altText: ''
-        url: /
+        url: meinhold.abigail@gmail.com
         showIcon: true
         icon: arrowRight
         iconPosition: right
