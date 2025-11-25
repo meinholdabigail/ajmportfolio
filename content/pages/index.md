@@ -69,7 +69,7 @@ sections:
         altText: instagram
         url: 'https://www.instagram.com/ajm.flix/'
         showIcon: true
-        icon: send
+        icon: instagram
         iconPosition: right
         style: secondary
         elementId: ''
