@@ -39,4 +39,5 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+socialImage: /images/AJM Logo.PNG
 ---
