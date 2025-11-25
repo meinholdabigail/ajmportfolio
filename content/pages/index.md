@@ -50,7 +50,7 @@ sections:
       love for music with my studies. I aim to help small, local musicians
       expand their reach and grow their audiences.
     colors: colors-e
-    variant: variant-a
+    variant: variant-b
     elementId: ''
     styles:
       self:
