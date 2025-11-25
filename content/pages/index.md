@@ -41,7 +41,7 @@ sections:
     actions: []
   - type: TextSection
     title: Rythm to Reach
-    subtitle: The section subtitle
+    subtitle: ''
     text: >
       I am a student at Indiana University of Pennsylvania studying
       communications media marketing and earning a minor in psychology. In the
