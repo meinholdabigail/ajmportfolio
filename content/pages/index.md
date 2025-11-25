@@ -52,7 +52,7 @@ sections:
           - pr-4
         borderWidth: 1
   - type: CtaSection
-    title: Let's do this
+    title: Get in contact
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
