@@ -56,7 +56,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Email
         altText: ''
         url: /
         showIcon: true
