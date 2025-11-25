@@ -40,7 +40,7 @@ sections:
     type: HeroSection
     actions: []
   - type: TextSection
-    title: The Section Title
+    title: Rythm to Reach
     subtitle: The section subtitle
     text: >
       I am a student at Indiana University of Pennsylvania studying
