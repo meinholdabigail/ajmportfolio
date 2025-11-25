@@ -65,7 +65,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: '@ajm.flix'
         altText: ''
         url: 'https://www.instagram.com/ajm.flix/'
         showIcon: false
