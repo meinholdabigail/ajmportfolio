@@ -62,7 +62,7 @@ sections:
         showIcon: true
         icon: mail
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
       - type: Link
         label: '@ajm.flix'
