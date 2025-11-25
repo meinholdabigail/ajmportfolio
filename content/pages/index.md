@@ -36,7 +36,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: row
-        textAlign: left
+        textAlign: center
     type: HeroSection
     actions: []
   - type: DividerSection
