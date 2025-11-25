@@ -58,7 +58,7 @@ sections:
       - type: Button
         label: meinhold.abigail@gmail.com
         altText: my email
-        url: 'mailto:'
+        url: 'mailto:meinhold.abigail@gmail.com'
         showIcon: true
         icon: arrowRight
         iconPosition: right
