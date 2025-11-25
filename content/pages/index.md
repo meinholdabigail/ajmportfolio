@@ -67,7 +67,7 @@ sections:
       - type: Link
         label: '@ajm.flix'
         altText: instagram
-        url: ''
+        url: 'https://www.instagram.com/ajm.flix/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
